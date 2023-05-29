@@ -7,7 +7,7 @@
  -->
 - 🌱 I’m currently learning **React js , Node js**
 
-- 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Javascript, Html, CSS, Mongdb**
+- 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Javascript, Html, CSS, Mongdb,Mongoos, Expressjs , Boostrap **
 
 - 📫 How to reach me **raylight459@gmail.com**
 
