@@ -1,10 +1,30 @@
-<!-- <img src="https://previews.123rf.com/images/artinspiring/artinspiring2005/artinspiring200501780/147808946-programmer-typographic-header-concept-idea-of-working-on.jpg" height="100" width="1080" > -->
-<h1 align="center">Hi 👋, I'm Gaurang Gaur</h1>
-<h3 align="center">"I am passionate and self driven computer science undergraduate currently pursuing a Bachelor's degree in Computer Science. With a keen interest in technology and problem-solving, committed to expanding my knowledge and skills in the field of computer science"</h3>
-<img align ="center" height="409" width="1080" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurang-gaur" alt="gaurang-gaur" /></a> </p>
- -->
+<h1 align="center">Hi 👋, I'm Gaurang Gaur</h1>
+  <table cellspacing="10px">
+
+        <tbody>
+            <tr>
+                <td>
+                    <img src="image/profilepic.png" alt="profilepic" width="200px"></img>
+                </td>
+                <td>
+
+                    <h1>
+                        <em>Gaurang Gaur</em>
+                    </h1>
+
+                </td>
+                <td>
+                    <h3> <em>Underguate <strong>
+                                Student
+                            </strong></em> </h3>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    
+
 - 🌱 I’m currently learning **React js , Node js**
 
 - 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Javascript, Html, CSS, Mongdb,Mongoos, Expressjs , Boostrap **
