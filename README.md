@@ -1,9 +1,9 @@
 
-<h1 align="center" color="Yellow" > Hi 👋, I'm Gaurang Gaur</h1>
+<h1 align="center"  > Hi 👋, I'm Gaurang Gaur</h1>
 
 
     
-<h3 align="right" >"I am passionate and self driven computer science undergraduate currently pursuing a Bachelor's degree in Computer Science. With a keen interest in technology and problem-solving, committed to expanding my knowledge and skills in the field of computer science"</h3>
+<h3 align="left" >"I am passionate and self driven computer science undergraduate currently pursuing a Bachelor's degree in Computer Science. With a keen interest in technology and problem-solving, committed to expanding my knowledge and skills in the field of computer science"</h3>
 <img align ="right" width="400px" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🌱 I’m currently learning **React js , Node js**
