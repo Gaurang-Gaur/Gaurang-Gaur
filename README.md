@@ -1,29 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Gaurang Gaur</h1>
-  <table cellspacing="10px">
 
-        <tbody>
-            <tr>
-                <td>
-                    <img src="image/profilepic.png" alt="profilepic" width="200px"></img>
-                </td>
-                <td>
-
-                    <h1>
-                        <em>Gaurang Gaur</em>
-                    </h1>
-
-                </td>
-                <td>
-                    <h3> <em>Underguate <strong>
-                                Student
-                            </strong></em> </h3>
-                </td>
-            </tr>
-        </tbody>
-    </table>
 
     
+<h3 align="center">"I am passionate and self driven computer science undergraduate currently pursuing a Bachelor's degree in Computer Science. With a keen interest in technology and problem-solving, committed to expanding my knowledge and skills in the field of computer science"</h3>
+<img align ="center" width="400px" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🌱 I’m currently learning **React js , Node js**
 
