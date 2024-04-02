@@ -27,7 +27,7 @@
 <div align="left">
  <a href="www.linkedin.com/in/gauranggaur007" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  /></a>
  <a href="https://twitter.com/GaurangGaur007"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  /></a>
- <a href="gauranggaur007@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="discord logo"  /></a>
+ <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKjRLMkctzVWhZJqRWZQWQjhDvrknFsJjmFmDBkhhkhfwQSsHlsCtKRwZCzjZhwTHCrBjnG"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="discord logo"  /></a>
  
   
 </div>
@@ -70,11 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  
   <img width="12" />
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
-
   <h4 align ="center">. . .</h4>
   <h3 >Blog :</h3>
 </div>
