@@ -73,5 +73,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
   <h4 align ="center">. . .</h4>
-  <h3 >Blog :</h3>
+  <h3 >Activity :</h3>
+  <a href="https://leetcode.com/gaur_gaurang/"> Leetcode </a><br>
+  <a href="https://codeforces.com/profile/Gaurang_Gaur"> CodeForces </a><br>
+  <a href="https://www.codechef.com/users/gaur_gaurang"> CodeChef </a><br>
 </div>
